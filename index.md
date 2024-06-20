@@ -1,4 +1,4 @@
 ---
-title: # Welcome to Fabi´s blog #
+title:  Welcome to Fabi´s blog 
 ---
 
